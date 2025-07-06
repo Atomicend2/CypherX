@@ -1,14 +1,14 @@
 {
-    "bot-name": "CypherX",
-    "description": "CypherX, your friendly assistant!",
-    "logo": "https://i.ibb.co/nqsRcKDB/Xploader4.jpg",
+    "bot-name": "Atomicend",
+    "description": "Atomicend, your friendly assistant!",
+    "logo": "https://imgur.com/a/xdetTEI",
     "keywords": [],
     "documentation-link": "https://cypherxbot.vercel.app",
     "owner-verification": "tylor9kid@gmail.com", 
   "env": {
     "SESSION_ID": {
       "description": "Must begin with 'XPLOADER-BOT:~' or 'CYPHER-X:~'.",
-      "value": "",
+      "value": "CYPHER-X:~UEsDBBQAAAgIAPZq5lpmAtifVAQAAHIHAAAKAAAAY3JlZHMuanNvbpVU25KiSBD9l3rFGG6Cl4iOWAQUVBS0veDGPFRTBZZysygQmPDfN7Cne+Zhd6KXpyIrI*PkOSfrB0gzUuAFbsD4B8gpqSDD3ZE1OQZjMCnDEFPQAwgyCMZgu3hzhK213u40P8ZQyI6cYcvFeu0OT3scieWp3CVa7bJp9AIePZCXbzEJ*lCQiMg8ZLvjYBET4WbVYlRb4WoUlZzOUcvky4PgH1fKypGyF*DoKkJCSRqZ+RknmMJ4gRsXEvo1+P40RVxqVlyqxTDerlbmbu+7cXu4utN9zTdGM7d0z9w3pv01+IaW6aNT2L8VxCwTGZdw6+*Iclh68NX36v3mDIfXhVsNBP8dfkGiFCMb4ZQR1nyZd3udVfbdOOuGUrYRb+76Jr+YLmc8QZukJUt7YtfBUlte4vvXgF9UJO5eRV1LbX0xUVnrxnE2MVatxQlHbms5RuKruXCCevE7cJd+eOX6f3i*aQNn43P9JdMkqq1VfqnbW5qkSlluxWo*Wktt6DeqfpKGX4PvSm2keNi7HayqKvnN0L7rkxsxvRzdVq+ZdBGs9O1u8hep*ws+ZCX9E0pRP9ZzZyXu1WEZ7FtX1LP7JjMonG789jJNUrNlGeccnTkh2mt59e2CJdOIDzaSf*cOI48elcHiOoteQzEu10f6FiWR9*Kc6IobG4Gx+OgBiiNSMAoZydIupvR7AKJqiwOK2ZNdcCxuTeAVa3UzV0*Qo6faeaWovVeXq7CY48jgZY4t17ObWLyAHshpFuCiwMgiBcto4+CigBEuwPjv7z2Q4pq969Z1k8UeCAkt2C4t8ziD6EPUj0sYBFmZsm2TBnp3wBSMhV9hzBhJo6KjsUwhDc6kwvoZsgKMQxgX+HNATDECY0ZL*Lm0eoY63v1Bf6vORhrogeSpB0FgDCS5PxAUdSAofVkYi*2*im*3ri7M828pZqAH4meePBIlWexLsiypqtwldvHHJ8KuIMIMkrgAY6C7llGEpmE6aX0LnNlM8yJNj7reHxN9OOOdeiHxD2o5SKthnoYnrhRqr5yhzNlEzWY21S2v1leGBzE*tV*+pUgHUHfi2f6A5FpqkTKVogziU81xnBsOxDYbsZZvuCW3CxYonhxlI+1zoSPd76PT9KbOrMrlkN+HuScG7VuctxdFXGea9tJ1Q7giAf69WZXPVdshCjoqblgN3PXuiM8MrbJ8AVdKze9iK9Qn0Lg5S*J2iNwdhfhaSXfukLhGG10kw6u0oEr4aKDkgwz5fPFGonfPPncm*vlWkaedOq2635Dg5+qnsFPwC9q9I+88Jjx6vxX5+Zr8x0ZO0DyZlrRUBvziJEshZc5ueU6hYfrOdXP2zoLjXTxhllb1Fjwe33sgjyELM5qAMYApohlBoAdoVnamtdMw+0MzfWLbuvY+egwLpv1ahFeS4ILBJAdjcaCIQ2EoCfJ7lkuz3ILFuRM+cnfza+fqRsvzLYPsY6+A1n3T2Qk8*gFQSwECFAMUAAAICAD2auZaZgLYn1QEAAByBwAACgAAAAAAAAAAAAAApIEAAAAAY3JlZHMuanNvblBLBQYAAAAAAQABADgAAAB8BAAAAAA=",
       "required": false
     }
   }
